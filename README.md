@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋, my name is Isaac.
+#### “When you get tired, learn to rest, not quit.” 
+##### by Banksy
 
-<!--
-**isaaclkh/isaaclkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------------------
 
-Here are some ideas to get you started:
+![“When you get tired, learn to rest, not quit.” (Banksy)](https://isaaclkh.github.io/img/banner.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're here to know about me then you are in a right place. This explains all about me; which includes the things I've learned in school or alone, and projects that I'm interest for fun. I'm afraid that if you couldn't find the things which you wanted to find, but know that I tried my best to show the "whole" me. Thank you 😁
+
+Skills: C / C++ / Java / Python / HTML / CSS
+
+- 🔭 I’m currently working on https://github.com/isaaclkh/aboutme 
+- 🌱 I’m currently learning Still just a student (going on 3rd grade) 
+- 👯 I’m looking to collaborate on Anyone are WELCOME!! 
+- 📫 How to reach me: isaaclkh9909@gmail.com 
+- 😄 Pronouns: Energizer ⚡️ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isaaclkh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/임건호)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gun_9909/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.naver.com/isaaclkh)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclkh)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclkh&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=isaaclkh)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=isaaclkh)  
+
+![Profile views](https://gpvc.arturio.dev/isaaclkh)  
