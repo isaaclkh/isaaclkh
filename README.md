@@ -6,7 +6,7 @@
 
 ![“When you get tired, learn to rest, not quit.” (Banksy)](https://isaaclkh.github.io/img/banner.jpg)
 
-If you're here to know about me then you are in a right place. This explains all about me; which includes the things I've learned in school or alone, and projects that I'm interest for fun. I'm afraid that if you couldn't find the things which you wanted to find, but know that I tried my best to show the "whole" me. Thank you 😁
+If you're here to know about me then you are in a right place. 😁
 
 Skills: C / C++ / Java / Python / HTML / CSS
 
