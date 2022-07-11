@@ -4,7 +4,7 @@
 
 -------------------
 
-![“When you get tired, learn to rest, not quit.” (Banksy)](https://isaaclkh.github.io/img/banner.jpg)
+(https://isaaclkh.github.io/img/banner.jpg)
 
 If you're here to know about me then you are in a right place. 😁
 
