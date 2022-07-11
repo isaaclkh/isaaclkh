@@ -4,6 +4,8 @@
 
 -------------------
 
+<img src="https://github.com/isaaclkh/isaaclkh.github.io/blob/main/img/banner.jpg">
+
 If you're here to know about me then you are in a right place. 😁
 
 Skills: C / C++ / Java / Python / HTML / CSS
