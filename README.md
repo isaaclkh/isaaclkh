@@ -11,8 +11,8 @@ If you're here to know about me then you are in a right place. 😁
 Skills: C / C++ / Java / Python / HTML / CSS
 
 - 🔭 I’m currently working on https://github.com/isaaclkh/aboutme 
-- 🌱 I’m currently learning Still just a student (going on 3rd grade) 
-- 👯 I’m looking to collaborate on Anyone are WELCOME!! 
+- 🌱 I’m currently learning. I'm still a student
+- 👯 I’m looking to collaborate on anything with anyone.
 - 📫 How to reach me: isaaclkh9909@gmail.com 
 - 😄 Pronouns: Energizer ⚡️ 
 
