@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Isaac.
+### Hi 👋, my name is Isaac.
 #### “When you get tired, learn to rest, not quit.” 
 ##### by Banksy
 
