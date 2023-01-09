@@ -23,8 +23,6 @@ Skills: C / C++ / Java / Python / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclkh&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=isaaclkh)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=isaaclkh)  
 
 ![Profile views](https://gpvc.arturio.dev/isaaclkh)  
