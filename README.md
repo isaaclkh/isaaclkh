@@ -8,7 +8,7 @@
 
 If you're here to know about me then you are in a right place. 😁
 
-Skills: C / C++ / Java / Python / HTML / CSS
+Skills: C / C++ / Python / Dart
 
 - 🔭 I’m currently working on https://github.com/isaaclkh/aboutme 
 - 🌱 I’m currently learning. I'm still a student
