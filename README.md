@@ -24,5 +24,3 @@ Skills: C / C++ / Python / Dart
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclkh&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=isaaclkh)  
-
-![Profile views](https://gpvc.arturio.dev/isaaclkh)  
