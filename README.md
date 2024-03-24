@@ -10,8 +10,8 @@ If you're here to know about me then you are in a right place. 😁
 
 Skills: C / C++ / Python / Dart
 
-- 🔭 I’m currently working on https://github.com/isaaclkh/aboutme 
-- 🌱 I’m currently learning. I'm still a student
+- 🔭 I’m currently working on https://github.com/Medithings/MediLight_App
+- 🌱 I’m junior developer.
 - 👯 I’m looking to collaborate on anything with anyone.
 - 📫 How to reach me: isaaclkh9909@gmail.com 
 - 😄 Pronouns: Developer ⚡️ 
