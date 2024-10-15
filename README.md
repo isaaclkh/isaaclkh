@@ -24,6 +24,8 @@ Skills: C / C++ / Python / Dart / SQL
   - https://github.com/SLE-SNS/Prologue
 - 2023 Winter Vacation Hackathon
   - https://github.com/NORITHON/ANABADA
+- 2023 Kiro Internship
+  - https://github.com/isaaclkh/KIRO
 - Jul, 2022 ~ Dec, 2023 Sirlab
   - https://github.com/isaaclkh/LAB
 - 2024 Working oragnization
