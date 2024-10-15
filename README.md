@@ -19,11 +19,12 @@ Skills: C / C++ / Python / Dart / SQL
 -------------
 
 🥳 Project history
-- 2022 2nd Semester SLE(club name) project
+
+- 2022 2nd Semester SLE(society name) project
   - https://github.com/SLE-SNS/Prologue
 - 2023 Winter Vacation Hackathon
   - https://github.com/NORITHON/ANABADA
-- Jul, 2022 ~ Dec, 2023
+- Jul, 2022 ~ Dec, 2023 Sirlab
   - https://github.com/isaaclkh/LAB
 - 2024 Working oragnization
   - https://github.com/Medithings
