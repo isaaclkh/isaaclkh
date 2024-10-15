@@ -10,7 +10,7 @@ If you're here to know about me then you are in a right place. 😁
 
 Skills: C / C++ / Python / Dart / SQL
 
-- 🔭 I’m currently working on MEDiThings CO., Ltd. (https://github.com/Medithings)
+- 🔭 I’m currently working on MEDiThings CO., Ltd.
 - 🌱 I’m junior developer.
 - 👯 I’m looking to collaborate on anything with anyone.
 - 📫 How to reach me: isaaclkh9909@gmail.com // isaac.lim@medithings.co.kr
@@ -23,6 +23,8 @@ Skills: C / C++ / Python / Dart / SQL
   - https://github.com/SLE-SNS/Prologue
 - 2023 Winter Vacation Hackathon
   - https://github.com/NORITHON/ANABADA
+- Jul, 2022 ~ Dec, 2023
+  - https://github.com/isaaclkh/LAB
 - 2024 Working oragnization
   - https://github.com/Medithings
 
