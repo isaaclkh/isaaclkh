@@ -8,12 +8,12 @@
 
 If you're here to know about me then you are in a right place. 😁
 
-Skills: C / C++ / Python / Dart
+Skills: C / C++ / Python / Dart / SQL
 
-- 🔭 I’m currently working on https://github.com/Medithings/MediLight_App
+- 🔭 I’m currently working on MEDiThings CO., Ltd. (https://github.com/Medithings)
 - 🌱 I’m junior developer.
 - 👯 I’m looking to collaborate on anything with anyone.
-- 📫 How to reach me: isaaclkh9909@gmail.com 
+- 📫 How to reach me: isaaclkh9909@gmail.com // isaac.lim@medithings.co.kr
 - 😄 Pronouns: Developer ⚡️
 
 -------------
